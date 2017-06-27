@@ -8,6 +8,9 @@ This repository contains the source code for BirdFlu detector developed by Prolo
 <li>Tested on <a href="http://www.swi-prolog.org/">SWI-Prolog</a> version 7.4.2 </li>
 </ul>
 
+<h2>ScreenShot</h2>
+<img src="https://raw.githubusercontent.com/beigirad/PrologProjet/master/BirdFlu%20Detector.png" width="400px" height="384px" alt="BirdFlu Detector" title="BirdFlu Detector">
+
 <h2>License</h2>
 
 The MIT License (MIT)
